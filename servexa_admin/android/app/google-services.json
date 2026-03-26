@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "488223158861",
+    "project_id": "servexa-fe67e",
+    "storage_bucket": "servexa-fe67e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488223158861:android:72067dfac887a0550ee204",
+        "android_client_info": {
+          "package_name": "com.example.servexa_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS7rW3ThFpDPZbayepyUf0fqVaybAq0S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488223158861:android:f0e258bbc536f92b0ee204",
+        "android_client_info": {
+          "package_name": "com.example.servexa_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS7rW3ThFpDPZbayepyUf0fqVaybAq0S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
