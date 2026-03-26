@@ -28,7 +28,7 @@ It connects users with service providers and enables seamless booking, tracking,
 * 📊 Manage service requests
 * 💰 Track earnings *(optional)*
 
-### 🛠️ Admin Panel *(Optional)*
+### 🛠️ Admin Panel 
 
 * 👤 Manage users & providers
 * 📦 Monitor bookings
